@@ -9,33 +9,33 @@
       var root = tree.getRoot();
 
       
-var objd64e89 = {
+var objd65e96 = {
   label: " DITA For Small Teams",
   href: "topics/dita-for-small-teams.html", 
   target:"contentwin"
 };
-var d64e89 = new YAHOO.widget.TextNode(objd64e89, root, false);
+var d65e96 = new YAHOO.widget.TextNode(objd65e96, root, false);
 
-var objd64e114 = {
+var objd65e121 = {
   label: " DITA for Small Teams Tools",
   href: "topics/dfst-tools.html", 
   target:"contentwin"
 };
-var d64e114 = new YAHOO.widget.TextNode(objd64e114, d64e89, false);
+var d65e121 = new YAHOO.widget.TextNode(objd65e121, d65e96, false);
 
-var objd64e139 = {
+var objd65e146 = {
   label: " git: Distributed and Shared Access to Content",
   href: "topics/tools-git.html", 
   target:"contentwin"
 };
-var d64e139 = new YAHOO.widget.TextNode(objd64e139, d64e114, false);
+var d65e146 = new YAHOO.widget.TextNode(objd65e146, d65e121, false);
 
-var objd64e164 = {
+var objd65e171 = {
   label: " eXist-db: Enabling Search and Link Management",
   href: "topics/tools-exist-db.html", 
   target:"contentwin"
 };
-var d64e164 = new YAHOO.widget.TextNode(objd64e164, d64e114, false);
+var d65e171 = new YAHOO.widget.TextNode(objd65e171, d65e121, false);
 
       
       tree.draw(); 
